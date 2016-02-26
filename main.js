@@ -1,4 +1,4 @@
-<script>//=====gather our variables=======  
+//=====gather our variables=======  
 var menu = document.getElementById("menu");
 var front = document.getElementById("front");
 var menuIsOpen = false;
